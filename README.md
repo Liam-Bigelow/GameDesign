@@ -1,2 +1,3 @@
 # GameDesign
-Includes build of created game ( for CMPT306 ) with samples of written scripts
+Includes build of created game ( for CMPT306 )
+Includes coding samples written by me
